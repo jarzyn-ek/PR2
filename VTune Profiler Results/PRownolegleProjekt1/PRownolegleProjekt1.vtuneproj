@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption>localhost</connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1588121233</timestamp>
+  <hostname>DESKTOP-74IL09G</hostname>
+  <os>windows</os>
+  <product>Intel® VTune™ Profiler 2020</product>
+  <buildNumber type="s32_t">605129</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <physicalCoreCount type="s32_t">2</physicalCoreCount>
+  <processorPackageCount type="s32_t">1</processorPackageCount>
+  <CPUFrequency type="s64_t">2500000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">142</CPUModel>
+  <CPUStepping type="s32_t">9</CPUStepping>
+  <CPUBrandName>Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz</CPUBrandName>
+  <isa>avx2</isa>
+ </rdmgr>
+ <vs_search_dirs>
+  <searchDirs>
+   <searchCategory>
+    <category type="u8_t">1</category>
+    <searchDirectory>
+     <name>C:\Users\Olunia\source\repos\PRownolegleProjekt1\Release</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x86</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\tools</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ide</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Public\Documents\Embarcadero\Studio\20.0\Bpl</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Common Files\Oracle\Java\javapath</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS\system32</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS\System32\Wbem</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS\System32\WindowsPowerShell\v1.0\</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\TDM-GCC-64\bin</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files\Git\cmd</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\xampp\php</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files\TortoiseSVN\bin</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\sqlite</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files\PuTTY\</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Olunia\AppData\Local\Microsoft\WindowsApps</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Olunia\AppData\Local\GitHubDesktop\bin</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Olunia\AppData\Local\Programs\Microsoft VS Code\bin</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Olunia\source\repos\PRownolegleProjekt1</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\bin\intel64</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x86</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\bin\HostX64\x64</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\bin\10.0.17763.0\x64</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\WINDOWS\SysWow64</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">2</category>
+    <searchDirectory>
+     <name>C:\Users\Olunia\source\repos\PRownolegleProjekt1\Release</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Users\Olunia\source\repos\PRownolegleProjekt1</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">3</category>
+    <searchDirectory>
+     <name>C:\Users\Olunia\source\repos\PRownolegleProjekt1\PRownolegleProjekt1</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\src\atl</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\crt\src</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Source\10.0.17763.0\ucrt</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\atlmfc\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\winrt</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\cppwinrt</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\compiler\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\compiler\include\ia32</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\ipp\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\tbb\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+    <searchDirectory>
+     <name>C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2020\windows\pstl\include</name>
+     <recursive type="bool">true</recursive>
+     <priority type="bool">true</priority>
+    </searchDirectory>
+   </searchCategory>
+   <searchCategory>
+    <category type="u8_t">4</category>
+   </searchCategory>
+  </searchDirs>
+ </vs_search_dirs>
+ <All_Configurations-All_Platforms>
+  <target_settings>
+   <inherited_state type="bool">true</inherited_state>
+   <selected_workload>
+    <localhost>launch</localhost>
+   </selected_workload>
+   <workloads>
+    <localhost>
+     <system type="pointer" type_id="dasID_cctrl2::SystemWideWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>system</targetName>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>C:\Users\Olunia\source\repos\PRownolegleProjekt1\PRownolegleProjekt1\VTune Profiler Results\PRownolegleProjekt1\r@@@{at}</result_directory.path>
+       <context>
+        <contextValue>
+         <id>allowMultipleRuns</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>analyzeKvmGuest</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>cpuMask</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>customCollector</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>dataLimit</id>
+         <value type="s32_t">1000</value>
+        </contextValue>
+        <contextValue>
+         <id>enableRing</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>finalizationMode</id>
+         <value>fast</value>
+        </contextValue>
+        <contextValue>
+         <id>followChild</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>groupForFinalizationControl</id>
+         <value type="null"></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmGuestKallsyms</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmGuestModules</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmProfileGuest</id>
+         <value type="null"></value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>native</value>
+        </contextValue>
+        <contextValue>
+         <id>targetDurationType</id>
+         <value>short</value>
+        </contextValue>
+        <contextValue>
+         <id>targetRingBuffer</id>
+         <value type="double">0</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>system</value>
+        </contextValue>
+        <contextValue>
+         <id>tracingMode</id>
+         <value type="null"></value>
+        </contextValue>
+       </context>
+      </workload>
+     </system>
+     <launch type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>launch</targetName>
+       <launch_app.app_to_launch>C:\Users\Olunia\source\repos\PRownolegleProjekt1\Release\PRownolegleProjekt1.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>C:\Users\Olunia\source\repos\PRownolegleProjekt1\PRownolegleProjekt1\</launch_app.working_folder>
+       <launch_app.app_parameters></launch_app.app_parameters>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <launch_app.environment></launch_app.environment>
+       <result_directory.path>C:\Users\Olunia\source\repos\PRownolegleProjekt1\PRownolegleProjekt1\VTune Profiler Results\PRownolegleProjekt1\r@@@{at}</result_directory.path>
+       <context>
+        <contextValue>
+         <id>allowMultipleRuns</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>analyzeKvmGuest</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>analyzeSystemWide</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>cpuMask</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>customCollector</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>dataLimit</id>
+         <value type="s32_t">1000</value>
+        </contextValue>
+        <contextValue>
+         <id>enableRing</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>finalizationMode</id>
+         <value>none</value>
+        </contextValue>
+        <contextValue>
+         <id>followChild</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>followChildStrategy</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>groupForFinalizationControl</id>
+         <value type="null"></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmGuestKallsyms</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmGuestModules</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>kvmProfileGuest</id>
+         <value type="null"></value>
+        </contextValue>
+        <contextValue>
+         <id>mrteMode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>targetDurationType</id>
+         <value>veryshort</value>
+        </contextValue>
+        <contextValue>
+         <id>targetRingBuffer</id>
+         <value type="double">0</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>launch</value>
+        </contextValue>
+        <contextValue>
+         <id>traceMpi</id>
+         <value type="bool">false</value>
+        </contextValue>
+        <contextValue>
+         <id>tracingMode</id>
+         <value type="null"></value>
+        </contextValue>
+       </context>
+      </workload>
+     </launch>
+    </localhost>
+   </workloads>
+  </target_settings>
+  <analysis_type_settings>
+   <selected_analysis_type_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\microarchitecture_exploration.cfg</selected_analysis_type_path>
+   <localhost>
+    <launch>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\hotspots.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>enableCharacterizationInsights</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>enableStackCollect</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>goodFastFrameThreshold</id>
+        <value type="double">100</value>
+       </contextValue>
+       <contextValue>
+        <id>groupForCustomControl</id>
+        <value type="null"></value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%HotspotsByCPUUsageViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingMode</id>
+        <value>hw</value>
+       </contextValue>
+       <contextValue>
+        <id>slowGoodFrameThreshold</id>
+        <value type="double">40</value>
+       </contextValue>
+       <contextValue>
+        <id>stackSizeCollect</id>
+        <value>0</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\vpp.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>vpp</id>
+        <value></value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\microarchitecture_exploration.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>collectBadSpeculation</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectCoreBound</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectFrontendBound</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectMemoryBW</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>collectMemoryBound</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectRetiring</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>dramBandwidthLimitsAT</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>enableStackCollect</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>groupForSelectMetrics</id>
+        <value type="null"></value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%SNBGeneralExplorationViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>pmuSamplingCountSwitch</id>
+        <value>summary</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\gpu_hotspots_base.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>collectMemoryBW</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>gpuOpenCLCollection</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>gpuProfilingModeAtk</id>
+        <value>characterization</value>
+       </contextValue>
+       <contextValue>
+        <id>gpuSamplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+       <contextValue>
+        <id>gpuUsageCollection</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>groupForGPUCustomControl</id>
+        <value type="null"></value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%InKernelProfilingViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>kernelsToProfileAtk</id>
+        <value></value>
+       </contextValue>
+       <contextValue>
+        <id>metricsGroup</id>
+        <value>overview</value>
+       </contextValue>
+       <contextValue>
+        <id>profilingMode</id>
+        <value>bb-latency</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\hpc-characterization.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>analyzeOpenMPRegions</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectAffinity</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>collectMemoryBW</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>collectParallelFs</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>dramBandwidthLimitsAT</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>enableStackCollect</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>groupForCustomControl</id>
+        <value type="null"></value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%OpenMPHotspotsViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+       <contextValue>
+        <id>stackSizeCollect</id>
+        <value>0</value>
+       </contextValue>
+       <contextValue>
+        <id>useHPCCPUUtilizationThresholds</id>
+        <value type="bool">true</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\threading_analysis.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>enableStackCollect</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>groupForCustomControl</id>
+        <value type="null"></value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%ThreadingEfficiencyViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingAndWaits</id>
+        <value>hw</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+       <contextValue>
+        <id>stackSizeCollect</id>
+        <value>0</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\memory_access.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>analyzeMemoryObjects</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>analyzeOpenMPRegions</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>dramBandwidthLimitsAT</id>
+        <value type="bool">true</value>
+       </contextValue>
+       <contextValue>
+        <id>enableMemoryObjectGrouper</id>
+        <value type="bool">false</value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%SNBBandwidthViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>memoryObjectMinSize</id>
+        <value type="s32_t">1024</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+     <at_start_point>
+      <at_path>C:\Program Files (x86)\IntelSWTools\VTune Profiler 2020\config\analysis_type\system_overview.cfg</at_path>
+      <knob_values>
+       <contextValue>
+        <id>collectingMode</id>
+        <value>hwSampling</value>
+       </contextValue>
+       <contextValue>
+        <id>initialViewpoint</id>
+        <value>%SystemOverviewViewpointName</value>
+       </contextValue>
+       <contextValue>
+        <id>samplingInterval</id>
+        <value type="double">1</value>
+       </contextValue>
+      </knob_values>
+     </at_start_point>
+    </launch>
+   </localhost>
+  </analysis_type_settings>
+ </All_Configurations-All_Platforms>
+ <contextValues type="bag"/>
+</root>
